@@ -3,15 +3,15 @@ module github.com/ciranda-dev/kolo-files
 go 1.26.0
 
 require (
-	github.com/ciranda-dev/kolo-blobs v0.1.0
+	github.com/ciranda-dev/kolo-blobs v0.1.1
 	github.com/ciranda-dev/kolo-codec v0.1.0
 	github.com/ciranda-dev/kolo-id v0.1.0
 	github.com/ciranda-dev/kolo-log v0.1.0
-	github.com/ciranda-dev/kolo-pin v0.1.0
-	github.com/ciranda-dev/kolo-secure v0.1.0
+	github.com/ciranda-dev/kolo-pin v0.1.1
+	github.com/ciranda-dev/kolo-secure v0.1.1
 	github.com/ciranda-dev/kolo-store v0.1.0
-	github.com/ciranda-dev/kolo-sync v0.1.0
-	github.com/ciranda-dev/kolo-transport v0.1.0
+	github.com/ciranda-dev/kolo-sync v0.1.1
+	github.com/ciranda-dev/kolo-transport v0.1.1
 	golang.org/x/text v0.44.0
 )
 
@@ -32,7 +32,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.5-0.20231225225746-43d5d4cd4e0e // indirect
-	github.com/klauspost/compress v1.17.11 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
